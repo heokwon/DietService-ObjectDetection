@@ -1,4 +1,5 @@
 # DietService-ObjectDetection
+#### Alpaco Object Detection mini Project
 ### Team
 * 김현나, 손보영, 이종헌, 전영욱, 허 권
 ### Project
