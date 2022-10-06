@@ -38,5 +38,9 @@
 
 * Train & Inference
 <br><br>
-## Retrospective
 ## Reference
+* https://arxiv.org/abs/2004.10934
+* https://github.com/AlexeyAB/darknet
+* https://opencv.org/
+* https://pillow.readthedocs.io/en/stable/
+* https://www.tensorflow.org/?hl=ko
